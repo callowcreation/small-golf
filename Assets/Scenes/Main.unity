@@ -353,8 +353,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Target: {fileID: 1483510055}
-  m_SmoothTime: 0.1
-  m_RotationSpeed: 30
+  m_Hole: {fileID: 1098961073}
+  m_CameraSmoothTime: 0.1
+  m_CameraRotationSpeed: 45
+  m_RigRotationSpeed: 60
 --- !u!4 &173242309
 Transform:
   m_ObjectHideFlags: 0
