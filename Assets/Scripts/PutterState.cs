@@ -8,5 +8,6 @@ public enum PutterState
     None,
     Aim,
     Power,
-    Swing
+    Swing,
+    Done
 }
